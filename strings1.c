@@ -14,7 +14,7 @@ int main() {
     fgets(palabra, sizeof(palabra), stdin);
     // Se le pide al usuario que ingrese un texto a buscar
     printf("Ingrese una palabra para buscar: ");
-    fgets(busqueda, sizeof(busqueda), stdin);
+    scanf("%s", busqueda);
 
     // Se usa strstr (no funciona siempre, por alguna extrana razon)
     resultado = strstr(palabra, busqueda);
