@@ -1,0 +1,18 @@
+Preguntas
+1. Qué es ser autodidacta?
+Es tener y sentir la capacidad de aprender pr uno mismo sin necesidad de tener a alguien ya sea un profesor que enseñe todo lo necesario sin saber.
+Es aquella persona que se va formando con el mismo plan de estudios con el fin de aprender obtener informacion sobre ya sea uno o varios temas en concreto.
+
+2.Investigar que son matrices(definicion, sintaxis, etc)
+Un arreglo (matriz) es una colección ordenada de datos (tanto primitivos u objetos dependiendo del lenguaje). 
+Los arreglos (matrices) se emplean para almacenar multiples valores en una sola variable, frente a las variables que sólo pueden almacenar un valor (por cada variable).
+Se definen casi igual que los arreglos tipo:
+int matriz[tamaño][tamaño] Lo cual seria una matriz cuadrada, ambas filas y ambas columnas tienen el mismo tamaño, pero podría ser de diferentes tipos como:
+int matriz[3][5]
+Un arreglo de dos dimensiones, donde cada fila tiene un arreglo que puede ser llenado.
+
+3. Listar 3 fuentes de donde aprender a programar(canales de yt, foros, paginas, etc)
+ 1. UDEMY: Curso maestro de python: De cero a Programador Todoterreno.
+ 2. Curso: Programación desde cero (Gratis) - EDteamhttps://ed.team › cursos › programacion
+ 3. Cómo aprender programación desde cero - HACK A BOSShttps://www.hackaboss.com › blog › aprender-program...
+
